@@ -1,6 +1,6 @@
 Olá, mundo! 
 
-Meu nome é Cleyton, sou estudante do curso de Redes de Computadores (CEET Vasco Coutinho). Tenho interesse em 
+Meu nome é Cleyton, sou estudante do curso de Redes de Computadores (CEET Vasco Coutinho). No momento estou iniciando os meus estudos em Python. 
 
 <img align="center" alt="leandro-Python" height="65" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
